@@ -22,7 +22,7 @@ The final output should look something like this:
 ![image](https://github.com/ogzhnyksl1/npmcard/blob/7094729514b47f71728842453e934776e852a9ee/Namecard_GIF.gif)
 
 <hr/>
----
+
  Feedback & Contributions
 
 Your feedback is valuable! Feel free to open an issue or submit a PR to improve this project.
@@ -36,7 +36,7 @@ Your feedback is valuable! Feel free to open an issue or submit a PR to improve 
 
 You can build your own NPX card in minutes! Here’s how:
 
-1. **Fork this repo** or start your own Node.js project.
+1. **[Fork this repo](https://github.com/ogzhnyksl1/npmcard/fork)** or start your own Node.js project.
 
 2. Install the required packages:
 
