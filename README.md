@@ -2,7 +2,7 @@
  A personal card for Oguzhan Yuksel (@ogzhnyksl1)
 ✨ A unique and stylish console-based personal card ✨
 
-This is my unique NPX card. Connect with me instantly through your console or terminal!
+Connect with me instantly through your console or terminal!
 ## 🚀 Get Started
 
 👇 Just run the following command in your console or terminal:
