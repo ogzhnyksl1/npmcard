@@ -1,5 +1,5 @@
 # ogzhnyksl
- My npm namecard
+ A personal card for Oguzhan Yuksel (@ogzhnyksl)
 
 STEPS TO CREATE YOUR OWN
 The article written by our friend @jackboberg. I used the same for the reference to deploy the package.

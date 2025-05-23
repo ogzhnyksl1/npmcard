@@ -44,13 +44,13 @@ ${chalk.white.bold("    Card:")}  ${data.card}
 ${data.message}
 `;
 
-// ----------------- CENTER THE CARD -----------------
+// ----------------- CENTERING THE CARD -----------------
 function centerBox(boxString) {
   const termCols = process.stdout.columns || 80;
   return boxString
     .split('\n')
     .map(line => {
-      const lineLength = line.replace(/\x1b\[[0-9;]*m/g, '').length; // Strip ANSI
+      const lineLength = line.replace(/\x1b\[[0-9;]*m/g, '').length;
       const pad = Math.max(0, Math.floor((termCols - lineLength) / 2));
       return ' '.repeat(pad) + line;
     })
@@ -130,6 +130,5 @@ function showMenu() {
       }
     });
 }
-
-// Start the persistent menu after displaying the card
+// To reshow the menu.
 showMenu();
